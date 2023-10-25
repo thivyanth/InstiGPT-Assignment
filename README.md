@@ -57,7 +57,7 @@
     - Having an intrinsic knowledge of the entire campus map and every significant location is vital for InstiGPT to assist in planning and navigation.
     - InstiGPT should serve as a central hub for navigating through various institutional sites, simplifying the user’s journey in finding pertinent information.
 - **Mobile Accessibility**:
-    - Recognizing that the majority of users will likely access InstiGPT via mobile phones, optimizing it for mobile accessibility is paramount.
+    - Recognizing that the majority of users will likely access InstiGPT via mobile phones, optimizing it for mobile accessibility is important.
 - **Integration with External Applications**:
     - Ensuring seamless integration with widely used applications like Google Maps, institutional apps, and other pertinent tools will significantly enhance InstiGPT’s utility.
 - **Networking and Finding Relevant Contacts**:
